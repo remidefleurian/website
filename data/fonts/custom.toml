@@ -2,13 +2,13 @@
 name = "Custom"
 
 # Optional Google font URL
-google_fonts = "Avenir400,700|Monaco"
+google_fonts = "Nunito+Sans:400,700|Source+Code+Pro"
 
 # Font families
-heading_font = "Avenir"
-body_font = "Avenir"
-nav_font = "Avenir"
-mono_font = "Monaco"
+heading_font = "Nunito Sans"
+body_font = "Nunito Sans"
+nav_font = "Nunito Sans"
+mono_font = "Source Code Pro"
 
 # Font size
 font_size = "20"
