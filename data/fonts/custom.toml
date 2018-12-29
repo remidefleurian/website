@@ -1,0 +1,15 @@
+# Font style metadata
+name = "Custom"
+
+# Optional Google font URL
+google_fonts = "Avenir400,700|Monaco"
+
+# Font families
+heading_font = "Avenir"
+body_font = "Avenir"
+nav_font = "Avenir"
+mono_font = "Monaco"
+
+# Font size
+font_size = "20"
+font_size_small = "16"
