@@ -13,7 +13,7 @@ title = "Rémi de Fleurian"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2019"
+copyright = "&copy; 2019 Rémi de Fleurian"
 
 theme = "hugo-academic"
 enableEmoji = true
