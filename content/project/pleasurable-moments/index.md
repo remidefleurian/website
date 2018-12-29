@@ -16,7 +16,7 @@ url_slides = ""
 url_video = ""
 url_code = ""
 
-url_custom = [{name="Participate", url = "http://remidefleurian.com/#studies"}]
+url_custom = [{name="Participate", url = "https://remidefleurian.com/#studies"}]
 
 [image]
   caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/FZWivbri0Xk)"

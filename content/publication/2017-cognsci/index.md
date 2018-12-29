@@ -32,7 +32,7 @@ url_video = ""
 url_poster = ""
 url_source = ""
 # TODO change this to absolute URL once published
-url_custom = [{name = "Appendix", url = "http://remidefleurian.com/files/2017-cognsci-suppl.pdf"}]
+url_custom = [{name = "Appendix", url = "https://remidefleurian.com/files/2017-cognsci-suppl.pdf"}]
 
 doi = "10.1111/cogs.12347"
 

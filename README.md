@@ -1,1 +1,1 @@
-This is a repository for my [personal website](http://remidefleurian.com), built with [hugo-academic](https://github.com/gcushen/hugo-academic) and deployed with [Netlify](https://www.netlify.com/).
+This is a repository for my [personal website](https://remidefleurian.com/), built with [hugo-academic](https://github.com/gcushen/hugo-academic) and deployed with [Netlify](https://www.netlify.com/).
