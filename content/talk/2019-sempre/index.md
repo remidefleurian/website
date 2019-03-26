@@ -29,7 +29,7 @@ url_code = ""
 math = true
 
 [image]
-caption = "Image credit: [**QMUL**](https://www.cam.ac.uk/)"
+caption = "Image credit: [**University of Cambridge**](https://www.cam.ac.uk/)"
 focal_point = ""
   
 +++
