@@ -24,7 +24,7 @@ tags = []
 # Links (optional).
 url_pdf = "files/2017-cognsci-paper.pdf"
 url_preprint = ""
-url_code = ""
+url_code = "https://osf.io/yk3wa/"
 url_dataset = ""
 url_project = ""
 url_slides = ""
