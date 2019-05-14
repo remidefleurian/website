@@ -25,14 +25,13 @@ tags = []
 url_pdf = "files/2017-cognsci-paper.pdf"
 url_preprint = ""
 url_code = ""
-url_dataset = ""
+url_dataset = "https://osf.io/yk3wa/"
 url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
 url_custom = [{name = "Appendix", url = "https://remidefleurian.com/files/2017-cognsci-suppl.pdf"}]
-url_custom = [{name = "Data", url = "https://osf.io/yk3wa/"}]
 
 
 doi = "10.1111/cogs.12347"
