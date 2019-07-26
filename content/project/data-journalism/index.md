@@ -1,6 +1,6 @@
 +++
 title = "Data journalism"
-date = 2012-11-01T00:00:00
+date = 2019-07-01T00:00:00
 profile = false
 
 summary = "Projects conducted as a Google Fellow at the Guardian"
