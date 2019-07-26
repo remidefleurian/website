@@ -15,6 +15,7 @@ weight = 1
     "Empirical aesthetics",
     "Musical expectancy",
     "Musical chills",
+    "Data journalism",
     "Data visualisation",
     "Open science"
   ]
@@ -23,7 +24,7 @@ weight = 1
 [[education.courses]]
   course = "PhD in Computer Science"
   institution = "Queen Mary University of London"
-  year = 2020
+  year = 2021
 
 [[education.courses]]
   course = "MSc in Media & Arts Technology"
