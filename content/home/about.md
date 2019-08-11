@@ -15,7 +15,7 @@ weight = 1
     "Empirical aesthetics",
     "Musical expectancy",
     "Musical chills",
-    "Data journalism",
+    "Data science",
     "Data visualisation",
     "Open science"
   ]
