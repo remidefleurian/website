@@ -16,5 +16,5 @@ I was awarded a Google News Initiative Fellowship to work on data-driven stories
 
 * [A-level results day](https://www.theguardian.com/education/live/2019/aug/15/a-level-results-2019-students-await-results-from-reformed-exams-live?)
 * [GCSE results day](https://www.theguardian.com/education/live/2019/aug/22/gcse-results-day-2019-live-news)
-
----
+* [Amazon fires](https://www.theguardian.com/environment/2019/aug/23/amazon-fires-what-is-happening-anything-we-can-do?)
+* [Driving test pass rates](https://www.theguardian.com/world/2019/aug/23/an-easy-ride-scottish-village-fuels-debate-driving-test-pass-rates)
