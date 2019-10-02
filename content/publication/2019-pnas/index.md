@@ -9,7 +9,7 @@ authors = ["Rémi de Fleurian", "Peter Harrison", "Marcus Pearce", "David Quirog
 
 publication_types = ["2"]
 
-publication = "In *Proceedings of the National Academy of Sciences*"
+publication = "In *PNAS*"
 publication_short = ""
 
 abstract = ""
