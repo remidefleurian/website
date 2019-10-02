@@ -31,7 +31,6 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = ""
 
 
 doi = "10.1073/pnas.1913244116"
