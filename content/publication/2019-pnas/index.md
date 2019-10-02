@@ -5,11 +5,11 @@ date = 2019-09-19T00:00:00
 draft = false
 profile = false
 
-authors = ["**Rémi de Fleurian**", "Peter Harrison", "Marcus Pearce", "David Quiroga-Martinez"]
+authors = ["Rémi de Fleurian", "Peter Harrison", "Marcus Pearce", "David Quiroga-Martinez"]
 
 publication_types = ["2"]
 
-publication = "In *PNAS*"
+publication = "In *Proceedings of the National Academy of Sciences*"
 publication_short = ""
 
 abstract = ""
@@ -34,7 +34,7 @@ url_source = ""
 url_custom = ""
 
 
-doi = "10.1111/cogs.12347"
+doi = "10.1073/pnas.1913244116"
 
 math = true
 
