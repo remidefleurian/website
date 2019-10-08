@@ -24,7 +24,7 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_preprint = "files/2019-pnas-accepted.pdf"
-url_code = ""
+url_code = "https://codeocean.com/capsule/7918672/tree/v1"
 url_dataset = ""
 url_project = ""
 url_slides = ""
