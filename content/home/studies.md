@@ -12,6 +12,6 @@ weight = 2
 
 +++
 
-I am currently running an online survey study to better understand [pleasurable moments in music](project/pleasurable-moments) and what causes them. 
-
-If you often experience chills when listening to music, your participation would be greatly appreciated! More details are available on the [information sheet](https://qmulsciences.qualtrics.com/jfe/form/SV_24CEZwe2NiaiP7n).
+# I am currently running an online survey study to better understand [pleasurable moments in music](project/pleasurable-moments) and what causes them. 
+# 
+# If you often experience chills when listening to music, your participation would be greatly appreciated! More details are available on the [information sheet](https://qmulsciences.qualtrics.com/jfe/form/SV_24CEZwe2NiaiP7n).

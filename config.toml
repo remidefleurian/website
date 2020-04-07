@@ -13,7 +13,7 @@ title = "Rémi de Fleurian"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2019 Rémi de Fleurian"
+copyright = "&copy; 2020 Rémi de Fleurian"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -309,10 +309,10 @@ enableGitInfo = false
   url = "#about"
   weight = 1
   
-[[menu.main]]
-  name = "Studies"
-  url = "#studies"
-  weight = 2
+# [[menu.main]]
+#   name = "Studies"
+#   url = "#studies"
+#   weight = 2
 
 [[menu.main]]
   name = "Projects"
