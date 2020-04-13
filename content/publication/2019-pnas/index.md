@@ -1,6 +1,6 @@
 +++
 title = "Reward prediction tells us less than expected about musical pleasure"
-date = 2019-09-19T00:00:00
+date = 2019-10-15T00:00:00
 # slug = "2019-pnas"
 draft = false
 profile = false
