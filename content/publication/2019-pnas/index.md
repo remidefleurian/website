@@ -22,8 +22,8 @@ projects = ["pleasurable-moments"]
 tags = []
 
 # Links (optional).
-url_pdf = ""
-url_preprint = "files/2019-pnas-accepted.pdf"
+url_pdf = "files/2019-pnas.pdf"
+url_preprint = ""
 url_code = "https://codeocean.com/capsule/7918672/tree/v1"
 url_dataset = ""
 url_project = ""
