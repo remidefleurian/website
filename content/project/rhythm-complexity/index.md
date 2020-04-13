@@ -6,6 +6,9 @@ profile = false
 summary = "Research conducted for my MSc at Goldsmiths"
 tags = []
 
+[image]
+  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/PDX_a_82obo)"
+  focal_point = ""
 +++
 ---
 

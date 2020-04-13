@@ -17,6 +17,10 @@ url_video = ""
 url_code = ""
 url_custom = ""
 
+
+[image]
+  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/FZWivbri0Xk)"
+  focal_point = ""
 +++
 ---
 
