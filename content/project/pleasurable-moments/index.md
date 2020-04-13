@@ -15,12 +15,8 @@ url_pdf = ""
 url_slides = ""
 url_video = ""
 url_code = ""
+url_custom = ""
 
-url_custom = [{name="Participate", url = "https://remidefleurian.com/#studies"}]
-
-[image]
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/FZWivbri0Xk)"
-  focal_point = ""
 +++
 ---
 

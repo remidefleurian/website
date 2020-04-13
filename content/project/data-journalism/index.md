@@ -6,9 +6,6 @@ profile = false
 summary = "Projects conducted as a Google Fellow at the Guardian"
 tags = []
 
-[image]
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/cHlK4sZXOQo)"
-  focal_point = ""
 +++
 ---
 
