@@ -22,6 +22,9 @@ Guest lectures for the **Research Methods** and **Music Perception and Cognition
 
 Workshops for **Music Cognition Lab** seminars and **Media & Arts Technology** peer teaching sessions:
 
+- Introduction to ggplot2
 - Introduction to the tidyverse
 - Tools for online data collection
 - Introduction to statistics
+
+Lecture slides and materials are available on [GitHub](https://github.com/remidefleurian/teaching).
