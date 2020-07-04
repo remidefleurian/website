@@ -270,6 +270,12 @@ enableGitInfo = false
   #   link = "https://twitter.com/remidefleurian"
 
   [[params.social]]
+    icon = "cv"
+    icon_pack = "ai"
+    link = "https://github.com/remidefleurian/resume/raw/master/resume.pdf"
+    # link = "files/cv.pdf"
+
+  [[params.social]]
     icon = "orcid"
     icon_pack = "ai"
     link = "https://orcid.org/0000-0003-0584-7203"
@@ -288,13 +294,6 @@ enableGitInfo = false
     icon = "osf"
     icon_pack = "ai"
     link = "https://osf.io/f2jgd/"
-
-  # Link to a PDF of your resume/CV from the About widget.
-  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  # [[params.social]]
-  #   icon = "cv"
-  #   icon_pack = "ai"
-  #   link = "files/cv.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
