@@ -272,7 +272,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "files/resume.pdf"
+    link = "https://remidefleurian.com/files/resume.pdf"
 
   [[params.social]]
     icon = "orcid"
