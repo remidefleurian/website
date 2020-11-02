@@ -1,7 +1,7 @@
 +++
 title = "Chills in music: An integrative review"
 date = 2020-07-17T00:00:00
-# slug = "2020-psyarxiv"
+# slug = "2020-psyarxiv-rev"
 draft = false
 profile = false
 
@@ -22,7 +22,7 @@ projects = ["pleasurable-moments"]
 tags = []
 
 # Links (optional).
-url_pdf = "files/2020-psyarxiv.pdf"
+url_pdf = "files/2020-psyarxiv-rev.pdf"
 url_preprint = "https://doi.org/10.31234/osf.io/yc6d8"
 url_code = ""
 url_dataset = "https://doi.org/10.17605/osf.io/uyg7m"
