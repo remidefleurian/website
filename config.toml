@@ -15,7 +15,7 @@ googleAnalytics = "UA-131437394-1"
     url = "https://github.com/ojroques/hugo-researcher"
 
 [permalinks]
-  "/" = "https://remidefleurian.com"
+  "/" = "/:filename"
 
 [menu]
   [[menu.main]]
