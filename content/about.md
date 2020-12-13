@@ -44,7 +44,7 @@ and [Google Scholar](https://scholar.google.co.uk/citations?user=kH6xaHsAAAAJ).
 
 Guest lectures for **Research Methods** and **Music Perception and Cognition** postgraduate modules at QMUL:
 * Music and emotion
-* Linear modelling using R
+* Linear modeling using R
 * Inferential statistics using R
 * Statistical programming using R
 * Typesetting with LaTeX
