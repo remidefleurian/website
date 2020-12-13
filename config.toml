@@ -1,6 +1,6 @@
 title = "Rémi de Fleurian"
 baseURL = "/"
-theme = "researcher"
+theme = "hugo-researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
 math = true
