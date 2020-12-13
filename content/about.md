@@ -16,7 +16,7 @@ and find me on [Twitter](https://twitter.com/remidefleurian),
 [LinkedIn](https://www.linkedin.com/in/remidefleurian/), 
 [Github](https://github.com/remidefleurian), 
 [OSF](https://osf.io/f2jgd/), 
-and [Scholar](https://scholar.google.co.uk/citations?user=kH6xaHsAAAAJ).
+and [Google Scholar](https://scholar.google.co.uk/citations?user=kH6xaHsAAAAJ).
 
 ## Education
 
