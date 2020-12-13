@@ -26,19 +26,19 @@ and [Scholar](https://scholar.google.co.uk/citations?user=kH6xaHsAAAAJ).
 
 ## Publications
 
-1. The relationship between valence and chills: A corpus analysis [[doi](https://doi.org/10.31234/osf.io/v3rhe), [pdf]("https://remidefleurian.com/files/2020-psyarxiv-val.pdf"), [code](https://doi.org/10.5281/zenodo.4161610)]
-2. Chills in music: An integrative review [[doi](https://doi.org/10.31234/osf.io/yc6d8), [pdf]("https://remidefleurian.com/files/2020-psyarxiv-rev.pdf"), [data](https://doi.org/10.17605/osf.io/uyg7m)]
-3. Reward prediction tells us less than expected about musical pleasure [[doi](https://doi.org/10.1073/pnas.1913244116), [pdf]("https://remidefleurian.com/files/2019-pnas.pdf"), [code](https://codeocean.com/capsule/7918672/tree/v1)]
-4. Information-theoretic measures predict rhythm complexity [[doi](https://doi.org/10.1111/cogs.12347), [pdf]("https://remidefleurian.com/files/2019-cognsci-paper.pdf"), [suppl]("https://remidefleurian.com/files/2019-cognsci-suppl.pdf"), [data](https://doi.org/10.17605/osf.io/yk3wa)]
+1. The relationship between valence and chills: A corpus analysis [[doi](https://doi.org/10.31234/osf.io/v3rhe), [pdf](https://remidefleurian.com/files/2020-psyarxiv-val.pdf), [code](https://doi.org/10.5281/zenodo.4161610)]
+2. Chills in music: An integrative review [[doi](https://doi.org/10.31234/osf.io/yc6d8), [pdf](https://remidefleurian.com/files/2020-psyarxiv-rev.pdf), [data](https://doi.org/10.17605/osf.io/uyg7m)]
+3. Reward prediction tells us less than expected about musical pleasure [[doi](https://doi.org/10.1073/pnas.1913244116), [pdf](https://remidefleurian.com/files/2019-pnas.pdf), [code](https://codeocean.com/capsule/7918672/tree/v1)]
+4. Information-theoretic measures predict rhythm complexity [[doi](https://doi.org/10.1111/cogs.12347), [pdf](https://remidefleurian.com/files/2019-cognsci-paper.pdf), [suppl](https://remidefleurian.com/files/2019-cognsci-suppl.pdf), [data](https://doi.org/10.17605/osf.io/yk3wa)]
 
 ## Conferences
 
-1. SMPC at New York University [[pdf]("https://remidefleurian.com/files/2019-smpc.pdf"), [url](https://wp.nyu.edu/smpc2019/)]
-2. SEMPRE at University of Cambridge [[pdf]("https://remidefleurian.com/files/2019-sempre.pdf"), [url](https://cms.mus.cam.ac.uk/conferences/sempre-graduate-conference/)]
-3. DMRN at Queen Mary University of London [[pdf]("https://remidefleurian.com/files/2018-dmrn.pdf"), [url](https://www.qmul.ac.uk/dmrn/dmrn13/)]
-4. EiTIC at Pompeu Fabra University [[pdf]("https://remidefleurian.com/files/2018-eitic.pdf"), [url](https://www.upf.edu/web/etic_doctoral_workshop/)]
-5. ESCOM at Royal Northern College of Music [[pdf]("https://remidefleurian.com/files/2015-escom.pdf"), [url](https://www.escom.org/conferences-triennial.html)]
-6. ICTTP at Ionian University [[pdf]("https://remidefleurian.com/files/2014-icttp.pdf"), [url](http://www.finalconference.timely-cost.eu/)]
+1. SMPC at New York University [[pdf](https://remidefleurian.com/files/2019-smpc.pdf), [url](https://wp.nyu.edu/smpc2019/)]
+2. SEMPRE at University of Cambridge [[pdf](https://remidefleurian.com/files/2019-sempre.pdf), [url](https://cms.mus.cam.ac.uk/conferences/sempre-graduate-conference/)]
+3. DMRN at Queen Mary University of London [[pdf](https://remidefleurian.com/files/2018-dmrn.pdf), [url](https://www.qmul.ac.uk/dmrn/dmrn13/)]
+4. EiTIC at Pompeu Fabra University [[pdf](https://remidefleurian.com/files/2018-eitic.pdf), [url](https://www.upf.edu/web/etic_doctoral_workshop/)]
+5. ESCOM at Royal Northern College of Music [[pdf](https://remidefleurian.com/files/2015-escom.pdf), [url](https://www.escom.org/conferences-triennial.html)]
+6. ICTTP at Ionian University [[pdf](https://remidefleurian.com/files/2014-icttp.pdf), [url](http://www.finalconference.timely-cost.eu/)]
 
 ## Teaching
 
