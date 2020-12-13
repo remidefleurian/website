@@ -43,19 +43,17 @@ and [Google Scholar](https://scholar.google.co.uk/citations?user=kH6xaHsAAAAJ).
 ## Teaching
 
 Guest lectures for **Research Methods** and **Music Perception and Cognition** postgraduate modules at QMUL:
-* Music and emotion
-* Linear modeling using R
-* Inferential statistics using R
-* Statistical programming using R
-* Typesetting with LaTeX
+* Music and emotion [[url](https://github.com/remidefleurian/teaching/tree/master/lectures/music-and-emotion)]
+* Linear modeling using R [[url](https://github.com/remidefleurian/teaching/tree/master/lectures/stats-with-r)]
+* Inferential statistics using R [[url](https://github.com/remidefleurian/teaching/tree/master/lectures/stats-with-r)]
+* Statistical programming using R [[url](https://github.com/remidefleurian/teaching/tree/master/lectures/stats-with-r)]
+* Typesetting with LaTeX [[url](https://github.com/remidefleurian/teaching/tree/master/lectures/typesetting-with-latex)]
 
 Workshops for **Music Cognition Lab** seminars and **Media & Arts Technology** peer teaching sessions:
-* Introduction to ggplot2
-* Introduction to the tidyverse
-* Tools for online data collection
-* Introduction to statistics
-
-Lecture slides and materials are available on [Github](https://github.com/remidefleurian/teaching).
+* Introduction to ggplot2 [[url](https://github.com/remidefleurian/teaching/tree/master/lectures/intro-to-ggplot2)]
+* Introduction to the tidyverse [[url](https://github.com/remidefleurian/teaching/tree/master/lectures/intro-to-tidyverse)]
+* Tools for online data collection [[url](https://github.com/remidefleurian/teaching/tree/master/lectures/online-data-collection)]
+* Introduction to statistics [[url](https://github.com/remidefleurian/teaching/tree/master/lectures/intro-to-stats)]
 
 ## Data journalism
 
