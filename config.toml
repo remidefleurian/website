@@ -14,11 +14,8 @@ googleAnalytics = "UA-131437394-1"
     text = "Template by Olivier Roques"
     url = "https://github.com/ojroques/hugo-researcher"
 
-[blackfriday]
-  hrefTargetBlank = true
- 
 [permalinks]
-  "/" = "/:filename"
+  "/" = "https://remidefleurian.com"
 
 [menu]
   [[menu.main]]
