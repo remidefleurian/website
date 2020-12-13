@@ -20,16 +20,16 @@ and [Scholar](https://scholar.google.co.uk/citations?user=kH6xaHsAAAAJ).
 
 ## Education
 
-* PhD in Cognitive Science [QMUL, Dept. of Computer Science]
-* MSc in Music, Mind & Brain [Goldsmiths, Dept. of Psychology]
-* BSc in Osteopathic Studies [BSO]
+* PhD in Cognitive Science at QMUL, Department of Computer Science
+* MSc in Music, Mind & Brain at Goldsmiths, Department of Psychology
+* BSc in Osteopathic Studies at British School of Osteopathy
 
 ## Publications
 
-1. The relationship between valence and chills in music: A corpus analysis [[doi](https://doi.org/10.31234/osf.io/v3rhe), [pdf]("/files/2020-psyarxiv-val.pdf"), [code](https://doi.org/10.5281/zenodo.4161610)]
+1. The relationship between valence and chills: A corpus analysis [[doi](https://doi.org/10.31234/osf.io/v3rhe), [pdf]("/files/2020-psyarxiv-val.pdf"), [code](https://doi.org/10.5281/zenodo.4161610)]
 2. Chills in music: An integrative review [[doi](https://doi.org/10.31234/osf.io/yc6d8), [pdf]("/files/2020-psyarxiv-rev.pdf"), [data](https://doi.org/10.17605/osf.io/uyg7m)]
 3. Reward prediction tells us less than expected about musical pleasure [[doi](https://doi.org/10.1073/pnas.1913244116), [pdf]("/files/2019-pnas.pdf"), [code](https://codeocean.com/capsule/7918672/tree/v1)]
-4. Information-theoretic measures predict the human judgment of rhythm complexity [[doi](https://doi.org/10.1111/cogs.12347), [pdf]("/files/2019-cognsci-paper.pdf"), [suppl]("/files/2019-cognsci-suppl.pdf"), [data](https://doi.org/10.17605/osf.io/yk3wa)]
+4. Information-theoretic measures predict rhythm complexity [[doi](https://doi.org/10.1111/cogs.12347), [pdf]("/files/2019-cognsci-paper.pdf"), [suppl]("/files/2019-cognsci-suppl.pdf"), [data](https://doi.org/10.17605/osf.io/yk3wa)]
 
 ## Conferences
 
