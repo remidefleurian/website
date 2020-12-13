@@ -24,7 +24,7 @@ googleAnalytics = "UA-131437394-1"
     weight = 1
   [[menu.main]]
     name = "Resume"
-    url = "/files/resume.pdf"
+    url = "https://remidefleurian.com/files/resume.pdf"
     weight = 2
 
 [markup.goldmark.renderer]
