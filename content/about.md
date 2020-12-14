@@ -65,4 +65,4 @@ Projects conducted as a Google Fellow for the Guardian [Visuals](https://twitter
 5. A-level results day [[url](https://www.theguardian.com/education/live/2019/aug/15/a-level-results-2019-students-await-results-from-reformed-exams-live?)]
 
 [^1]: Musical expectation follows a process of probabilistic prediction of the statistical regularities in musical structure, which allows expectations learned through musical enculturation to be violated, delayed, or confirmed when listening to music, resulting in induced emotions [[ref](https://doi.org/10.1111/nyas.13654)]
-[^2]: Chills are a fleeting, pleasurable bodily sensation, sometimes accompanied by goosebumps, experienced when listening to speciﬁc musical passages [[ref](https://doi.org/10.31234/osf.io/yc6d8)]
+[^2]: Chills are a fleeting, pleasurable bodily sensation, sometimes accompanied by goosebumps, experienced when listening to specific musical passages [[ref](https://doi.org/10.31234/osf.io/yc6d8)]
