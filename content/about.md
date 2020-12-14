@@ -7,7 +7,7 @@ title = "Rémi de Fleurian"
 {{< figure class="avatar" src="/img/avatar.jpg" >}}
 
 I am a final year PhD candidate in the [Music Cognition Lab](http://music-cognition.eecs.qmul.ac.uk/), part of the [Cognitive Science Research Group](http://cogsci.eecs.qmul.ac.uk/) at Queen Mary University of London. 
-I am researching the effects of expectation[^1] on chills[^2] experienced in response to music listening, using behavioral, physiological, and computational methods, with [Marcus Pearce](http://webprojects.eecs.qmul.ac.uk/marcusp/) and [Emmanouil Benetos](http://www.eecs.qmul.ac.uk/~emmanouilb/). 
+I am researching the effects of expectation[^1] on chills[^2] experienced in response to music listening with [Marcus Pearce](http://webprojects.eecs.qmul.ac.uk/marcusp/) and [Emmanouil Benetos](http://www.eecs.qmul.ac.uk/~emmanouilb/), using behavioral, physiological, and computational methods. 
 I am interested in music cognition, empirical aesthetics, data science, data vizualisation, and open science.
 
 I currently live in Brooklyn, NY. 
