@@ -20,7 +20,7 @@ and [Google Scholar](https://scholar.google.co.uk/citations?user=kH6xaHsAAAAJ).
 
 ## Education
 
-* PhD in Cognitive Science at QMUL, Department of Computer Science
+* PhD in Cognitive Science at QMUL, Department of Computer Science [in progress]
 * MSc in Music, Mind & Brain at Goldsmiths, Department of Psychology
 * BSc in Osteopathic Studies at British School of Osteopathy
 
