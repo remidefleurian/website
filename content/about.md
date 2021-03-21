@@ -10,7 +10,7 @@ I am a final year PhD candidate in the [Music Cognition Lab](http://music-cognit
 I am researching the effects of expectation[^1] on chills[^2] experienced in response to music listening with [Marcus Pearce](http://webprojects.eecs.qmul.ac.uk/marcusp/) and [Emmanouil Benetos](http://www.eecs.qmul.ac.uk/~emmanouilb/), using behavioral, physiological, and computational methods. 
 I am interested in music cognition, empirical aesthetics, data science, data vizualisation, and open science.
 
-I currently live in Brooklyn, NY. 
+I currently live in Brooklyn, NY, and work part-time as a Data Fellow for the Alliance for Downtown New York. 
 You can reach me by [email](mailto:remi.defleurian@gmail.com), 
 and find me on [Twitter](https://twitter.com/remidefleurian), 
 [LinkedIn](https://www.linkedin.com/in/remidefleurian/), 
@@ -50,6 +50,7 @@ Guest lectures for **Research Methods** and **Music Perception and Cognition** p
 * Typesetting with LaTeX [[url](https://github.com/remidefleurian/teaching/tree/master/lectures/typesetting-with-latex)]
 
 Workshops for **Music Cognition Lab** seminars and **Media & Arts Technology** peer teaching sessions:
+* Remote computing at QMUL [[url](https://github.com/remidefleurian/teaching/tree/master/lectures/remote-computing)]
 * Introduction to ggplot2 [[url](https://github.com/remidefleurian/teaching/tree/master/lectures/intro-to-ggplot2)]
 * Introduction to the tidyverse [[url](https://github.com/remidefleurian/teaching/tree/master/lectures/intro-to-tidyverse)]
 * Tools for online data collection [[url](https://github.com/remidefleurian/teaching/tree/master/lectures/online-data-collection)]
