@@ -27,7 +27,7 @@ and [Google Scholar](https://scholar.google.co.uk/citations?user=kH6xaHsAAAAJ).
 ## Publications
 
 1. The relationship between valence and chills: A corpus analysis [[doi](https://doi.org/10.31234/osf.io/v3rhe), [pdf](https://remidefleurian.com/files/2020-psyarxiv-val.pdf), [code](https://doi.org/10.5281/zenodo.4161610)]
-2. Chills in music: An integrative review [[doi](https://doi.org/10.31234/osf.io/yc6d8), [pdf](https://remidefleurian.com/files/2020-psyarxiv-rev.pdf), [data](https://doi.org/10.17605/osf.io/uyg7m)]
+2. Chills in music: A systematic review [[doi](https://doi.org/10.31234/osf.io/yc6d8), [pdf](https://remidefleurian.com/files/2020-psyarxiv-rev.pdf), [data](https://doi.org/10.17605/osf.io/uyg7m)]
 3. Reward prediction tells us less than expected about musical pleasure [[doi](https://doi.org/10.1073/pnas.1913244116), [pdf](https://remidefleurian.com/files/2019-pnas.pdf), [code](https://codeocean.com/capsule/7918672/tree/v1)]
 4. Information-theoretic measures predict rhythm complexity [[doi](https://doi.org/10.1111/cogs.12347), [pdf](https://remidefleurian.com/files/2017-cognsci-paper.pdf), [suppl](https://remidefleurian.com/files/2017-cognsci-suppl.pdf), [data](https://doi.org/10.17605/osf.io/yk3wa)]
 
