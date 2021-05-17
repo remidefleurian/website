@@ -10,7 +10,7 @@ I am a final year PhD candidate in the [Music Cognition Lab](http://music-cognit
 I am researching the effects of expectation[^1] on chills[^2] experienced in response to music listening with [Marcus Pearce](http://webprojects.eecs.qmul.ac.uk/marcusp/) and [Emmanouil Benetos](http://www.eecs.qmul.ac.uk/~emmanouilb/), using behavioral, physiological, and computational methods. 
 I am interested in music cognition, empirical aesthetics, data science, data vizualisation, and open science.
 
-I currently live in Brooklyn, NY, and work part-time as a Data Fellow for the Alliance for Downtown New York. 
+I currently live in New York and work part-time as a Data Fellow for the Alliance for Downtown New York. 
 You can reach me by [email](mailto:remi.defleurian@gmail.com), 
 and find me on [Twitter](https://twitter.com/remidefleurian), 
 [LinkedIn](https://www.linkedin.com/in/remidefleurian/), 
