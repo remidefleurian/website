@@ -6,3 +6,27 @@
   HUGO_VERSION = "0.79.0"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+  from = "https://remidefleurian.netlify.app/linkedin"
+  to = "https://www.linkedin.com/in/remidefleurian/"
+  status = 301
+  force = true
+
+ [[redirects]]
+  from = "https://remidefleurian.netlify.app/github"
+  to = "https://github.com/remidefleurian/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://remidefleurian.netlify.app/scholar"
+  to = "https://scholar.google.co.uk/citations?user=kH6xaHsAAAAJ"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://remidefleurian.netlify.app/osf"
+  to = "https://osf.io/f2jgd/"
+  status = 301
+  force = true
