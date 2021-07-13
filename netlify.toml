@@ -8,25 +8,25 @@
   HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
-  from = "https://remidefleurian.netlify.app/linkedin"
+  from = "https://remidefleurian.com/linkedin"
   to = "https://www.linkedin.com/in/remidefleurian/"
   status = 301
   force = true
 
  [[redirects]]
-  from = "https://remidefleurian.netlify.app/github"
+  from = "https://remidefleurian.com/github"
   to = "https://github.com/remidefleurian/"
   status = 301
   force = true
 
 [[redirects]]
-  from = "https://remidefleurian.netlify.app/scholar"
+  from = "https://remidefleurian.com/scholar"
   to = "https://scholar.google.co.uk/citations?user=kH6xaHsAAAAJ"
   status = 301
   force = true
 
 [[redirects]]
-  from = "https://remidefleurian.netlify.app/osf"
+  from = "https://remidefleurian.com/osf"
   to = "https://osf.io/f2jgd/"
   status = 301
   force = true
