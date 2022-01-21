@@ -10,8 +10,7 @@ I am a final year PhD candidate in the [Music Cognition Lab](http://music-cognit
 I am researching the effects of expectation[^1] on chills[^2] experienced in response to music listening with [Marcus Pearce](http://webprojects.eecs.qmul.ac.uk/marcusp/) and [Emmanouil Benetos](http://www.eecs.qmul.ac.uk/~emmanouilb/), using behavioral, physiological, and computational methods. 
 I am interested in music cognition, empirical aesthetics, data science, data vizualisation, and open science.
 
-I currently live in New York and work part-time as a Data Fellow for the Alliance for Downtown New York. 
-You can reach me by [email](mailto:remi.defleurian@gmail.com), 
+I also recently joined Spotify New York as a Data Scientist, working on recommendations within the Personalization team. You can reach me by [email](mailto:remi.defleurian@gmail.com), 
 and find me on [Twitter](https://twitter.com/remidefleurian), 
 [LinkedIn](https://www.linkedin.com/in/remidefleurian/), 
 [Github](https://github.com/remidefleurian), 
@@ -26,8 +25,8 @@ and [Google Scholar](https://scholar.google.co.uk/citations?user=kH6xaHsAAAAJ).
 
 ## Publications
 
-1. Valence and chills: A corpus analysis [[doi](https://doi.org/10.1177/20416695211024680), [pdf](https://remidefleurian.com/files/2021-iperception.pdf), [suppl](https://journals.sagepub.com/doi/suppl/10.1177/20416695211024680), [code](https://doi.org/10.5281/zenodo.4161610)]
-2. Chills in music: A systematic review [[doi](https://doi.org/10.31234/osf.io/yc6d8), [pdf](https://remidefleurian.com/files/2020-psyarxiv-rev.pdf), [data](https://doi.org/10.17605/osf.io/uyg7m)]
+1. Chills in music: A systematic review [[doi](https://doi.org/10.1037/bul0000341), [pdf](https://remidefleurian.com/files/2021-psychbull.pdf), [data](https://doi.org/10.17605/osf.io/uyg7m)]
+2. Valence and chills: A corpus analysis [[doi](https://doi.org/10.1177/20416695211024680), [pdf](https://remidefleurian.com/files/2021-iperception.pdf), [suppl](https://journals.sagepub.com/doi/suppl/10.1177/20416695211024680), [code](https://doi.org/10.5281/zenodo.4161610)]
 3. Reward prediction tells us less than expected about musical pleasure [[doi](https://doi.org/10.1073/pnas.1913244116), [pdf](https://remidefleurian.com/files/2019-pnas.pdf), [code](https://codeocean.com/capsule/7918672/tree/v1)]
 4. Information-theoretic measures predict rhythm complexity [[doi](https://doi.org/10.1111/cogs.12347), [pdf](https://remidefleurian.com/files/2017-cognsci-paper.pdf), [suppl](https://remidefleurian.com/files/2017-cognsci-suppl.pdf), [data](https://doi.org/10.17605/osf.io/yk3wa)]
 
