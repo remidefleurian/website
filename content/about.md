@@ -6,11 +6,14 @@ title = "Rémi de Fleurian"
 
 {{< figure class="avatar" src="/img/avatar.jpg" >}}
 
-I am a final year PhD candidate in the [Music Cognition Lab](http://music-cognition.eecs.qmul.ac.uk/), part of the [Cognitive Science Research Group](http://cogsci.eecs.qmul.ac.uk/) at Queen Mary University of London. 
+I am a Data Scientist at Spotify New York, working on recommendations within the Personalization team. 
+I conduct research and develop metrics to understand consumption of personalized content, and I set up experiments to evaluate the impact of new features on user satisfaction with Spotify recommendations.
+
+I am also a final year PhD candidate in the [Music Cognition Lab](http://music-cognition.eecs.qmul.ac.uk/), part of the [Cognitive Science Research Group](http://cogsci.eecs.qmul.ac.uk/) at Queen Mary University of London. 
 I am researching the effects of expectation[^1] on chills[^2] experienced in response to music listening with [Marcus Pearce](http://webprojects.eecs.qmul.ac.uk/marcusp/) and [Emmanouil Benetos](http://www.eecs.qmul.ac.uk/~emmanouilb/), using behavioral, physiological, and computational methods. 
 I am interested in music cognition, empirical aesthetics, data science, data vizualisation, and open science.
 
-I also recently joined Spotify New York as a Data Scientist, working on recommendations within the Personalization team. You can reach me by [email](mailto:remi.defleurian@gmail.com), 
+You can reach me by [email](mailto:remi.defleurian@gmail.com), 
 and find me on [Twitter](https://twitter.com/remidefleurian), 
 [LinkedIn](https://www.linkedin.com/in/remidefleurian/), 
 [Github](https://github.com/remidefleurian), 
