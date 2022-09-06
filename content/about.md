@@ -42,6 +42,10 @@ and [Google Scholar](https://scholar.google.co.uk/citations?user=kH6xaHsAAAAJ).
 5. ESCOM at Royal Northern College of Music [[pdf](https://remidefleurian.com/files/2015-escom.pdf), [url](https://www.escom.org/conferences-triennial.html)]
 6. ICTTP at Ionian University [[pdf](https://remidefleurian.com/files/2014-icttp.pdf), [url](http://www.finalconference.timely-cost.eu/)]
 
+## Press
+
+My work on chills has been covered in [Quartz](https://qz.com/2071652/a-spotify-playlist-with-715-songs-known-to-give-people-chills), [Big Think](https://bigthink.com/neuropsych/frisson-song-playlist), [Inc](https://www.inc.com/minda-zetlin/songs-give-chills-lift-mood-playlist-spotify.html), and [IFLScience](https://www.iflscience.com/brain/this-playlist-will-give-you-skin-orgasms-thanks-to-frisson).
+
 ## Teaching
 
 Guest lectures for **Research Methods** and **Music Perception and Cognition** postgraduate modules at QMUL:
