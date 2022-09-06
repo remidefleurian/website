@@ -27,10 +27,11 @@ and [Google Scholar](https://scholar.google.co.uk/citations?user=kH6xaHsAAAAJ).
 
 ## Publications
 
-1. Chills in music: A systematic review [[doi](https://doi.org/10.1037/bul0000341), [pdf](https://remidefleurian.com/files/2021-psycholbull.pdf), [data](https://doi.org/10.17605/osf.io/uyg7m)]
-2. Valence and chills: A corpus analysis [[doi](https://doi.org/10.1177/20416695211024680), [pdf](https://remidefleurian.com/files/2021-iperception.pdf), [suppl](https://journals.sagepub.com/doi/suppl/10.1177/20416695211024680), [code](https://doi.org/10.5281/zenodo.4161610)]
-3. Reward prediction tells us less than expected about musical pleasure [[doi](https://doi.org/10.1073/pnas.1913244116), [pdf](https://remidefleurian.com/files/2019-pnas.pdf), [code](https://codeocean.com/capsule/7918672/tree/v1)]
-4. Information-theoretic measures predict rhythm complexity [[doi](https://doi.org/10.1111/cogs.12347), [pdf](https://remidefleurian.com/files/2017-cognsci-paper.pdf), [suppl](https://remidefleurian.com/files/2017-cognsci-suppl.pdf), [data](https://doi.org/10.17605/osf.io/yk3wa)]
+1. Modelling chills in music [[pdf](https://remidefleurian.com/files/2022-dissertation.pdf), [code](https://github.com/remidefleurian/phd-thesis)]
+2. Chills in music: A systematic review [[doi](https://doi.org/10.1037/bul0000341), [pdf](https://remidefleurian.com/files/2021-psycholbull.pdf), [data](https://doi.org/10.17605/osf.io/uyg7m)]
+3. Valence and chills: A corpus analysis [[doi](https://doi.org/10.1177/20416695211024680), [pdf](https://remidefleurian.com/files/2021-iperception.pdf), [suppl](https://journals.sagepub.com/doi/suppl/10.1177/20416695211024680), [code](https://doi.org/10.5281/zenodo.4161610)]
+4. Reward prediction tells us less than expected about musical pleasure [[doi](https://doi.org/10.1073/pnas.1913244116), [pdf](https://remidefleurian.com/files/2019-pnas.pdf), [code](https://codeocean.com/capsule/7918672/tree/v1)]
+5. Information-theoretic measures predict rhythm complexity [[doi](https://doi.org/10.1111/cogs.12347), [pdf](https://remidefleurian.com/files/2017-cognsci-paper.pdf), [suppl](https://remidefleurian.com/files/2017-cognsci-suppl.pdf), [data](https://doi.org/10.17605/osf.io/yk3wa)]
 
 ## Conferences
 
