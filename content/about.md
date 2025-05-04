@@ -13,7 +13,7 @@ I also hold a PhD from the [Music Cognition Lab](http://music-cognition.eecs.qmu
 I am interested in music cognition, empirical aesthetics, data science, data vizualisation, and open science.
 
 You can reach me by [email](mailto:remi.defleurian@gmail.com), 
-and find me on[LinkedIn](https://www.linkedin.com/in/remidefleurian/), 
+and find me on [LinkedIn](https://www.linkedin.com/in/remidefleurian/), 
 [Github](https://github.com/remidefleurian), 
 [OSF](https://osf.io/f2jgd/), 
 and [Google Scholar](https://scholar.google.co.uk/citations?user=kH6xaHsAAAAJ).
