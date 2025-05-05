@@ -8,6 +8,12 @@
   HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
+  from = "https://remidefleurian.com/"
+  to = "https://remidefleurian.com/about"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "https://remidefleurian.com/linkedin"
   to = "https://www.linkedin.com/in/remidefleurian/"
   status = 301
